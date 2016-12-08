@@ -7,9 +7,6 @@ public class HelloWorld {
 		System.out.println("我的第一次修改...");		
 		System.out.println("update 02");
 		System.out.println("update 03");
-<<<<<<< HEAD
 		System.out.println("update 04");
-=======
->>>>>>> refs/remotes/origin/master
 	}
 }
